@@ -1,0 +1,18 @@
+[
+  ["name", "natDex", "type1", "type2", "species", "height", "weight", "ability1", "ability2", "abilityHidden"],
+  ["Bulbasaur", "0001", "Grass", "Poison", "Seed Pokémon", "0.7", "6.9", "Overgrow", null, "Chlorophyll"],
+  ["Ivysaur", "0002", "Grass", "Poison", "Seed Pokémon", "1.0", "13.0", "Overgrow", null, "Chlorophyll"],
+  ["Venusaur", "0003", "Grass", "Poison", "Seed Pokémon", "2.0","100.0", "Overgrow", null, "Chlorophyll"],
+  ["Charmander", "0004", "Fire", null, "Lizard Pokémon", "0.6", "8.5", "Blaze", null, "Solar Power"],
+  ["Charmeleon", "0005", "Fire", null, "Flame Pokémon", "1.1", "19.0", "Blaze", null, "Solar Power"],
+  ["Charizard", "0006", "Fire", "Flying", "Flame Pokémon", "1.7", "90.5", "Blaze", null, "Solar Power"],
+  ["Squirtle", "0007", "Water", null, "Tiny Turtle Pokémon", "0.5", "9.0", "Torrent", null, "Rain Dish"],
+  ["Wartortle", "0008", "Water", null, "Turtle Pokémon", "1.0", "22.5", "Torrent", null, "Rain Dish"],
+  ["Blastoise", "0009", "Water", null, "Shellfish Pokémon", "1.6", "85.5", "Torrent", null, "Rain Dish"],
+  ["Caterpie", "0010", "Bug", null, "Worm Pokémon", "0.3", "2.9", "Shield Dust", null, "Run Away"],
+  ["Metapod", "0011", "Bug", null, "Cocoon Pokémon", "0.7", "9.9", "Shed Skin", null, null],
+  ["Butterfree", "0012", "Bug", "Flying", "Butterfly Pokémon", "1.1", "32.0", "Compound Eyes", null, "Tinted Lens"],
+  ["Weedle", "0013", "Bug", "Poison", "Hairy Bug Pokémon", "0.3", "3.2", "Shield Dust", null, "Run Away"],
+  ["Kakuna", "0014", "Bug", "Poison", "Cocoon Pokémon", "0.6", "10.0", "Shed Skin", null, null],
+  ["Beedrill", "0015", "Bug", "Poison", "Poison Bee Pokémon", "1.0", "29.5", "Swarm", null, "Sniper"]
+]

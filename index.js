@@ -1,2 +1,2 @@
-natDex = require("./assets/dexwrite");
+natDex = require("./assets/dexwrite.js");
 console.log(natDex);
