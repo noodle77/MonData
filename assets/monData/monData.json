@@ -1,5 +1,5 @@
 [
-  ["name", "natDex", "type1", "type2", "species", "height", "weight", "ability1", "ability2", "abilityHidden"],
+  ["dummy", "natDex", "type1", "type2", "species", "height", "weight", "ability1", "ability2", "abilityHidden"],
   ["Bulbasaur", "0001", "Grass", "Poison", "Seed Pokémon", "0.7", "6.9", "Overgrow", null, "Chlorophyll"],
   ["Ivysaur", "0002", "Grass", "Poison", "Seed Pokémon", "1.0", "13.0", "Overgrow", null, "Chlorophyll"],
   ["Venusaur", "0003", "Grass", "Poison", "Seed Pokémon", "2.0","100.0", "Overgrow", null, "Chlorophyll"],
