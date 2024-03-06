@@ -1,0 +1,9 @@
+{
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 85,
+    "SpAtk": 20,
+    "SpDef": 30,
+    "Speed": 40,
+    "Total": 300
+}
