@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/noodle77/MonData/issues"
   },
-  "homepage": "https://github.com/noodle77/MonData#readme"
+  "homepage": "https://github.com/noodle77/MonData#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
 }
