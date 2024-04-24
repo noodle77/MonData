@@ -19,9 +19,9 @@
     "url": "https://github.com/noodle77/MonData/issues"
   },
   "homepage": "https://github.com/noodle77/MonData#readme",
-  "devDependencies": {
-    "express": "^4.19.1",
-    "mysql2": "^3.9.2",
-    "sequelize": "^6.37.1"
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.2"
   }
 }
